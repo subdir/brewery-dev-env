@@ -1,4 +1,0 @@
-[submodule "dockerenv"]
-	path = dockerenv
-	url = https://github.com/subdir/dockerenv
-
