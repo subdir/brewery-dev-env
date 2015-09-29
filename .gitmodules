@@ -1,3 +1,4 @@
-[submodule "docker-dev-env"]
-	path = docker-dev-env
-	url = git@github.com:subdir/docker-dev-env.git
+[submodule "dockerenv"]
+	path = dockerenv
+	url = https://github.com/subdir/dockerenv
+
