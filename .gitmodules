@@ -1,0 +1,3 @@
+[submodule "dockerenv"]
+	path = dockerenv
+	url = git@github.com:subdir/dockerenv.git
