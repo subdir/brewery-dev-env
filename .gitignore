@@ -1,3 +1,7 @@
+/docker_image_cache.json
+/.bash_history
+/.python_history
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
